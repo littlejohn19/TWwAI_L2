@@ -1,0 +1,3 @@
+Pytanie:Za pomocą jakiego mechanizmu aplikacja wydrukowała w konsoli komunikat ‘new connection’?
+Odpowiedź:Za pomocą emitera zdarzeń (event emitter)
+
